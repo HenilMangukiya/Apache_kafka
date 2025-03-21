@@ -48,6 +48,13 @@ pip install kafka-python gspread oauth2client pandas
 
 - ### 5️⃣ Run the Consumer (Google Sheets Updater)
 
+- ### 6️⃣ Set Up Grafana Dashboard
+- Install Grafana and configure it to fetch data from Google Sheets.
+- Import `dashboard.json` to visualize stock trends.
+
+## 📊 Expected Output
+- Real-time stock price updates in **Google Sheets**.
+- A **Grafana dashboard** with dynamic stock selection.
 
 
 
