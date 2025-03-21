@@ -44,6 +44,12 @@ pip install kafka-python gspread oauth2client pandas
 - Generate and download `credentials.json`.
 - Share the Google Sheet with the service account email.
 
+- ### 4️⃣ Run the Producer (Stock Data Generator)
+
+- ### 5️⃣ Run the Consumer (Google Sheets Updater)
+
+
+
 
 
 
