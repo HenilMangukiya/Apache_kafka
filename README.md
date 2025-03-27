@@ -1,7 +1,9 @@
-# Real-Time Stock Market Data Visualization Using Apache Kafka & Google Sheets
+# Real-Time Stock Insights: Stream, Store, Visualize with Kafka & Grafana
+
+
 
 ## 📌 Project Overview
-This project focuses on real-time stock market data streaming, processing, and visualization using **Apache Kafka, Google Sheets, and Grafana**. The system fetches stock market data using the **Google Finance API**, streams it through Kafka, stores it in **Google Sheets**, and then visualizes trends and analytics dynamically using **Grafana**.
+This project focuses on real-time stock market data streaming, processing, and visualization using **Apache Kafka, and Grafana**. The system fetches stock market data using the **Google Finance API**, streams it through Kafka, stores it in **Google Sheets**, and then visualizes trends and analytics dynamically using **Grafana**.
 
 ## 🚀 Features
 - **Real-time Stock Data Streaming** via Apache Kafka.
@@ -56,6 +58,8 @@ pip install kafka-python gspread oauth2client pandas
 - Real-time stock price updates in **Google Sheets**.
 - A **Grafana dashboard** with dynamic stock selection.
 
+## 📖 Learn More  
+Read the detailed blog post about this project here: [click here](https://medium.com/@22it070/real-time-log-analysis-with-apache-kafka-and-power-bi-64f686074686)
 
 
 
